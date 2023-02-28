@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+t.me	TRUE	/	FALSE	1999999999	stel_ssid	38ac533a9592b9cb64_17032681762860682347
+t.me	TRUE	/	FALSE	1999999999	samesite	None
+.tumblr.com	TRUE	/	FALSE	1999999999	tmgioct	63fdd42036f8710810621030
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:3315734795722926757
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST07:s=O:r=O:a=O:p=O:g=2484:u=1:x=1:i=1677579296:t=1677665696:v=2:sig=AQEdQVtktutWeS-E7K9I-6wbIpM0QW_C"
+.twitter.com	TRUE	/	FALSE	1999999999	ct0	1de67bda62267b49f04b7fdc0c42c264
+twitter.com	TRUE	/	FALSE	1999999999	cms-csp-nonce	821b2e843172338b83f7f21dab76b13
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167758261416668318
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167758261416668318
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_RnzrtC3Uu1sACR82hgJF3w=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167758261416668318
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&8adf5a98-4d8b-445c-8d84-cedb5c139ef7"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&202302281110165aab35eb-fab3-46da-8ef0-924f3f710abfAQGdtJeexW21yaXBwwHVBcK4ejHsJXdO"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
